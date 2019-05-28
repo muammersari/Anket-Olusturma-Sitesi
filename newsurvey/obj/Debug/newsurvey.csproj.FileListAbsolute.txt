@@ -1,0 +1,5 @@
+c:\users\pc2018\documents\visual studio 2012\Projects\newsurvey\newsurvey\bin\newsurvey.dll
+c:\users\pc2018\documents\visual studio 2012\Projects\newsurvey\newsurvey\bin\newsurvey.pdb
+c:\users\pc2018\documents\visual studio 2012\Projects\newsurvey\newsurvey\obj\Debug\newsurvey.dll
+c:\users\pc2018\documents\visual studio 2012\Projects\newsurvey\newsurvey\obj\Debug\newsurvey.pdb
+C:\Users\pc2018\Documents\Visual Studio 2012\Projects\newsurvey\newsurvey\obj\Debug\newsurvey.csprojResolveAssemblyReference.cache
